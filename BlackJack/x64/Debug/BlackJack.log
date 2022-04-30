@@ -1,0 +1,3 @@
+﻿  BlackJack.cpp
+C:\Users\Oyez\Documents\C++\BlackJack\BlackJack\BlackJack.cpp(278): warning C4715: 'playBlackJack': not all control paths return a value
+  BlackJack.vcxproj -> C:\Users\Oyez\Documents\C++\BlackJack\x64\Debug\BlackJack.exe
